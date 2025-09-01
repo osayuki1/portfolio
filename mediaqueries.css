@@ -3,6 +3,7 @@
 .details-container {
   max-width: 1300px;
   margin: 0 auto;
+  padding: 0.5rem;
 }
 
 .text-container {
@@ -12,7 +13,7 @@
 
 arrow {
   position: absolute;
-  right: 2rem;
+  right: 3rem;
   bottom: 2.5rem;
   display: block !important;
 }
